@@ -1,0 +1,445 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 1440px;
+  display: block;
+  margin: 0 auto;
+  justify-content: center; /* горизонтальное выравнивание */
+  align-items: center; /* вертикальное выравнивание */
+}
+
+/* <!-- ПЕРВЫЙ ЭКРАН --> */
+.firstscreen {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: #ffffff;
+}
+.headback {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: italic;
+  font-size: 64px;
+  position: absolute;
+  top: 324px;
+  left: 371px;
+  color: #000000;
+}
+.headfront {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: italic;
+  font-size: 64px;
+  position: absolute;
+  top: 324px;
+  left: 373px;
+  color: #ffffff;
+  -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+.clock1-1 {
+  position: absolute;
+  left: 18px; /* смещение по X */
+  top: 20px; /* смещение по Y */
+}
+.clip1-1 {
+  position: absolute;
+  left: 415px; /* смещение по X */
+  top: 45px; /* смещение по Y */
+}
+.fork1-1 {
+  position: absolute;
+  left: 703px; /* смещение по X */
+  top: 108px; /* смещение по Y */
+}
+.bottle1-1 {
+  position: absolute;
+  left: 962px; /* смещение по X */
+  top: 51px; /* смещение по Y */
+}
+.key1-1 {
+  position: absolute;
+  left: 1236px; /* смещение по X */
+  top: 51px; /* смещение по Y */
+}
+.key1-2 {
+  position: absolute;
+  left: 18px; /* смещение по X */
+  top: 369px; /* смещение по Y */
+}
+.headphoto1-1 {
+  position: absolute;
+  left: 155px; /* смещение по X */
+  top: 163px; /* смещение по Y */
+}
+.bottle1-2 {
+  position: absolute;
+  left: 59px; /* смещение по X */
+  top: 610px; /* смещение по Y */
+}
+.clip1-2 {
+  position: absolute;
+  left: 355px; /* смещение по X */
+  top: 699px; /* смещение по Y */
+}
+.fork1-3 {
+  position: absolute;
+  left: 1054px; /* смещение по X */
+  top: 541px; /* смещение по Y */
+}
+.clip1-4 {
+  position: absolute;
+  left: 1140px; /* смещение по X */
+  top: 786px; /* смещение по Y */
+}
+.alice1-1 {
+  position: absolute;
+  left: 498px; /* смещение по X */
+  top: 536px; /* смещение по Y */
+}
+.rabbit1-1 {
+  position: absolute;
+  left: 712px; /* смещение по X */
+  top: 475px; /* смещение по Y */
+}
+.fork1-2 {
+  position: absolute;
+  left: 89px; /* смещение по X */
+  top: 817px; /* смещение по Y */
+}
+.clip1-3 {
+  position: absolute;
+  left: 1332px; /* смещение по X */
+  top: 322px; /* смещение по Y */
+}
+.clock1-2 {
+  position: absolute;
+  left: 1275px; /* смещение по X */
+  top: 585px; /* смещение по Y */
+}
+
+/* <!-- ВТОРОЙ ЭКРАН --> */
+.secondscreen {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+}
+.line2-1 {
+  position: absolute;
+  left: 0px; /* смещение по X */
+  top: 916px; /* смещение по Y */
+}
+.rabbit2-1 {
+  position: absolute;
+  left: 0px; /* смещение по X */
+  top: 112px; /* смещение по Y */
+}
+.rabbit2-2 {
+  position: absolute;
+  left: 1082px; /* смещение по X */
+  top: 112px; /* смещение по Y */
+}
+.history {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  top: 369px;
+  left: 453px;
+  color: #000000;
+}
+.history-text {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 27px;
+  line-height: 1.2; /* рекомендуемое значение для основного текста */
+  padding-right: 453px;
+  position: absolute;
+  top: 417px;
+  left: 453px;
+  color: #000000;
+}
+
+/* <!-- ТРЕТИЙ ЭКРАН --> */
+.thirdscreen {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: #000000;
+}
+.bottle3-1 {
+  position: absolute;
+  left: 0px; /* смещение по X */
+  top: 33px; /* смещение по Y */
+  z-index: 2; /* Более высокий слой */
+}
+.bottle3-2 {
+  position: absolute;
+  left: 271px; /* смещение по X */
+  top: 34px; /* смещение по Y */
+  z-index: 2; /* Более высокий слой */
+}
+.bottle3-3 {
+  position: absolute;
+  left: 507px; /* смещение по X */
+  top: 32px; /* смещение по Y */
+  z-index: 2; /* Более высокий слой */
+}
+.bottle3-4 {
+  position: absolute;
+  left: 706px; /* смещение по X */
+  top: 33px; /* смещение по Y */
+  z-index: 2; /* Более высокий слой */
+}
+.bottle3-5 {
+  position: absolute;
+  left: 1012px; /* смещение по X */
+  top: 34px; /* смещение по Y */
+  z-index: 2; /* Более высокий слой */
+}
+.bottle3-6 {
+  position: absolute;
+  left: 1236px; /* смещение по X */
+  top: 32px; /* смещение по Y */
+  z-index: 2; /* Более высокий слой */
+}
+.sweet3-1 {
+  position: absolute;
+  left: 24px; /* смещение по X */
+  top: 742px; /* смещение по Y */
+  z-index: 2; /* Более высокий слой */
+}
+.sweet3-2 {
+  position: absolute;
+  left: 286px; /* смещение по X */
+  top: 654px; /* смещение по Y */
+  z-index: 2; /* Более высокий слой */
+}
+.sweet3-3 {
+  position: absolute;
+  left: 493px; /* смещение по X */
+  top: 693px; /* смещение по Y */
+  z-index: 2; /* Более высокий слой */
+}
+.sweet3-4 {
+  position: absolute;
+  left: 747px; /* смещение по X */
+  top: 745px; /* смещение по Y */
+  z-index: 2; /* Более высокий слой */
+}
+.sweet3-5 {
+  position: absolute;
+  left: 996px; /* смещение по X */
+  top: 648px; /* смещение по Y */
+  z-index: 2; /* Более высокий слой */
+}
+.sweet3-6 {
+  position: absolute;
+  left: 1192px; /* смещение по X */
+  top: 695px; /* смещение по Y */
+  z-index: 2; /* Более высокий слой */
+}
+.line3-1 {
+  position: absolute;
+  left: 0 px; /* смещение по X */
+  top: 350px; /* смещение по Y */
+}
+.line3-2 {
+  position: absolute;
+  left: 0px; /* смещение по X */
+  top: 897px; /* смещение по Y */
+}
+.text3-1 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: italic;
+  font-size: 128px;
+  position: absolute;
+  top: 470px;
+  left: 319px;
+  color: #ffffff;
+}
+.ThinN {
+  font-family: "Parmigiano Piccolo Pro";
+  font-weight: 100;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  z-index: 3; /* Более высокий слой */
+  top: 222px;
+  left: 83px;
+  color: #000000;
+}
+.LightN {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  z-index: 3; /* Более высокий слой */
+  top: 267px;
+  left: 323px;
+  color: #000000;
+}
+.RegularN {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  z-index: 3; /* Более высокий слой */
+  top: 227px;
+  left: 526px;
+  color: #000000;
+}
+.MediumN {
+  font-family: "Parmigiano Piccolo Pro Med";
+  font-weight: 500;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  z-index: 3; /* Более высокий слой */
+  top: 217px;
+  left: 786px;
+  color: #000000;
+}
+.BoldN {
+  font-family: "Parmigiano Piccolo Pro Bld";
+  font-weight: bold;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  z-index: 3; /* Более высокий слой */
+  top: 267px;
+  left: 1068px;
+  color: #000000;
+}
+.BlackN {
+  font-family: "Parmigiano Piccolo Pro Blk";
+  font-weight: 900;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  z-index: 3; /* Более высокий слой */
+  top: 229px;
+  left: 1275px;
+  color: #000000;
+}
+
+.ThinI {
+  font-family: "Parmigiano Piccolo Pro";
+  font-weight: 100;
+  font-style: italic;
+  font-size: 36px;
+  position: absolute;
+  z-index: 3; /* Более высокий слой */
+  top: 865px;
+  left: 108px;
+  color: #000000;
+}
+.LightI {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: italic;
+  font-size: 36px;
+  position: absolute;
+  z-index: 3; /* Более высокий слой */
+  top: 867px;
+  left: 344px;
+  color: #000000;
+}
+.RegularI {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: italic;
+  font-size: 36px;
+  position: absolute;
+  z-index: 3; /* Более высокий слой */
+  top: 705px;
+  left: 572px;
+  color: #000000;
+}
+.MediumI {
+  font-family: "Parmigiano Piccolo Pro Med";
+  font-weight: 500;
+  font-style: italic;
+  font-size: 36px;
+  position: absolute;
+  z-index: 3; /* Более высокий слой */
+  top: 861px;
+  left: 794px;
+  color: #000000;
+}
+.BoldI {
+  font-family: "Parmigiano Piccolo Pro Bld";
+  font-weight: bold;
+  font-style: italic;
+  font-size: 36px;
+  position: absolute;
+  z-index: 3; /* Более высокий слой */
+  top: 860px;
+  left: 1059px;
+  color: #000000;
+}
+.BlackI {
+  font-family: "Parmigiano Piccolo Pro Blk";
+  font-weight: 900;
+  font-style: italic;
+  font-size: 36px;
+  position: absolute;
+  z-index: 3; /* Более высокий слой */
+  top: 707px;
+  left: 1290px;
+  color: #000000;
+}
+.roman {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  z-index: 5; /* Более высокий слой */
+  top: 356px;
+  left: 679px;
+  color: #000000;
+}
+
+.italic {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: italic;
+  font-size: 36px;
+  position: absolute;
+  z-index: 5; /* Более высокий слой */
+  top: 902px;
+  left: 694px;
+  color: #000000;
+}
+
+.romanTX3-1 {
+  position: absolute;
+  left: 574px; /* смещение по X */
+  top: 344px; /* смещение по Y */
+  z-index: 3; /* Более высокий слой */
+}
+.italicTX3-2 {
+  position: absolute;
+  left: 574px; /* смещение по X */
+  top: 891px; /* смещение по Y */
+  z-index: 3; /* Более высокий слой */
+}
+
+/* <!-- ЧЕТВЁРТЫЙ ЭКРАН --> */
+.fourthscreen {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: #ffffff;
+}
