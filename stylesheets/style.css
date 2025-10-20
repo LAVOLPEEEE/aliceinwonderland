@@ -410,7 +410,6 @@ body {
   left: 679px;
   color: #000000;
 }
-
 .italic {
   font-family: "Parmigiano Piccolo Pro Lt";
   font-weight: 300;
@@ -419,10 +418,9 @@ body {
   position: absolute;
   z-index: 5; /* Более высокий слой */
   top: 902px;
-  left: 694px;
+  left: 690px;
   color: #000000;
 }
-
 .romanTX3-1 {
   position: absolute;
   left: 574px; /* смещение по X */
@@ -431,7 +429,7 @@ body {
 }
 .italicTX3-2 {
   position: absolute;
-  left: 574px; /* смещение по X */
+  left: 570px; /* смещение по X */
   top: 891px; /* смещение по Y */
   z-index: 3; /* Более высокий слой */
 }
@@ -442,4 +440,1869 @@ body {
   width: 1440px;
   height: 1024px;
   background: #ffffff;
+}
+.line4-1 {
+  position: absolute;
+  left: 0px; /* смещение по X */
+  top: 0px; /* смещение по Y */
+  bottom: 415px;
+}
+.card4-1 {
+  position: absolute;
+  left: 40px; /* смещение по X */
+  top: 242px; /* смещение по Y */
+}
+.card4-2 {
+  position: absolute;
+  left: 507px; /* смещение по X */
+  top: 242px; /* смещение по Y */
+}
+.card4-3 {
+  position: absolute;
+  left: 974px; /* смещение по X */
+  top: 242px; /* смещение по Y */
+}
+.text4-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: italic;
+  font-size: 48px;
+  position: absolute;
+  top: 160px;
+  left: 40px;
+  color: #000000;
+}
+.text4-2 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 27px;
+  position: absolute;
+  top: 872px;
+  left: 0px;
+  color: #000000;
+  padding-right: 930px;
+  text-align: center;
+  line-height: 1.2; /* рекомендуемое значение для основного текста */
+}
+
+.text4-3 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 27px;
+  position: absolute;
+  top: 872px;
+  left: 497px;
+  color: #000000;
+  padding-right: 500px;
+  text-align: center;
+  line-height: 1.2; /* рекомендуемое значение для основного текста */
+}
+.text4-4 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 27px;
+  position: absolute;
+  top: 872px;
+  left: 984px;
+  color: #000000;
+  padding-right: 50px;
+  text-align: center;
+  line-height: 1.2; /* рекомендуемое значение для основного текста */
+}
+.letterA {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 500px;
+  position: absolute;
+  top: 301px;
+  left: 1045px;
+  color: #ffffff;
+}
+.a-letter4-1 {
+  position: absolute;
+  left: 1060px; /* смещение по X */
+  top: 426px; /* смещение по Y */
+  z-index: 3; /* Более высокий слой */
+}
+.a-letter4-2 {
+  position: absolute;
+  left: 1290px; /* смещение по X */
+  top: 608px; /* смещение по Y */
+  z-index: 3; /* Более высокий слой */
+}
+
+.letterT {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 500px;
+  position: absolute;
+  top: 350px;
+  left: 554px;
+  color: #ffffff;
+}
+
+.t-letter4-1 {
+  position: absolute;
+  left: 635px; /* смещение по X */
+  top: 358px; /* смещение по Y */
+  z-index: 3; /* Более высокий слой */
+}
+
+.t-letter4-2 {
+  position: absolute;
+  left: 651px; /* смещение по X */
+  top: 650px; /* смещение по Y */
+  z-index: 3; /* Более высокий слой */
+}
+
+.letterJ {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 500px;
+  position: absolute;
+  top: 290px;
+  left: 186px;
+  color: #ffffff;
+}
+.j-letter4-1 {
+  position: absolute;
+  left: 180px; /* смещение по X */
+  top: 388px; /* смещение по Y */
+  z-index: 3; /* Более высокий слой */
+}
+.j-letter4-2 {
+  position: absolute;
+  left: 262px; /* смещение по X */
+  top: 388px; /* смещение по Y */
+  z-index: 3; /* Более высокий слой */
+}
+.j-letter4-3 {
+  position: absolute;
+  left: 158px; /* смещение по X */
+  top: 692px; /* смещение по Y */
+  z-index: 3; /* Более высокий слой */
+}
+
+.n1-1-5 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  top: 340px;
+  left: 56px;
+  color: #ffffff;
+}
+.n2-1-5 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  top: 340px;
+  left: 520px;
+  color: #ffffff;
+}
+.n3-1-5 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  top: 340px;
+  left: 989px;
+  color: #ffffff;
+}
+
+.n1-2-5 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  top: 720px;
+  left: 442px;
+  color: #ffffff;
+  transform: scaleY(-1); /* Поворот по вертикали */
+}
+
+.n2-2-5 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  top: 720px;
+  left: 907px;
+  color: #ffffff;
+  transform: scaleY(-1); /* Поворот по вертикали */
+}
+.n3-2-5 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  top: 720px;
+  left: 1376px;
+  color: #ffffff;
+  transform: scaleY(-1); /* Поворот по вертикали */
+}
+
+/* <!-- ПЯТЫЙ ЭКРАН --> */
+.fifthscreen {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: #000000;
+}
+.line5-1 {
+  position: absolute;
+  left: 0px; /* смещение по X */
+  top: 400px; /* смещение по Y */
+}
+.line5-2 {
+  position: absolute;
+  left: 0px; /* смещение по X */
+  top: 608px; /* смещение по Y */
+}
+.letterC5 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 270px;
+  position: absolute;
+  top: 401px;
+  left: 93px;
+  color: #000000;
+  -webkit-text-stroke: 1.2px rgb(255, 255, 255);
+  transition: all ease 0.3s;
+}
+.letterC5:hover {
+  color: rgb(255, 255, 255);
+  transform: all ease 0.6s;
+}
+
+.letterI5 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 270px;
+  position: absolute;
+  top: 405px;
+  left: 238px;
+  color: #000000;
+  -webkit-text-stroke: 1.2px rgb(255, 255, 255);
+  transition: all ease 0.3s;
+}
+.letterI5:hover {
+  color: rgb(255, 255, 255);
+  transform: all ease 0.6s;
+}
+.letterN5-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 270px;
+  position: absolute;
+  top: 406px;
+  left: 326px;
+  color: #000000;
+  -webkit-text-stroke: 1.2px rgb(255, 255, 255);
+  transition: all ease 0.3s;
+}
+.letterN5-1:hover {
+  color: rgb(255, 255, 255);
+  transform: all ease 0.6s;
+}
+.letterN5-2 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 270px;
+  position: absolute;
+  top: 406px;
+  left: 501px;
+  color: #000000;
+  -webkit-text-stroke: 1.2px rgb(255, 255, 255);
+  transition: all ease 0.3s;
+}
+.letterN5-2:hover {
+  color: rgb(255, 255, 255);
+  transform: all ease 0.6s;
+}
+.letterA5 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 270px;
+  position: absolute;
+  top: 404px;
+  left: 677px;
+  color: #000000;
+  -webkit-text-stroke: 1.2px rgb(255, 255, 255);
+  transition: all ease 0.3s;
+}
+.letterA5:hover {
+  color: rgb(255, 255, 255);
+  transform: all ease 0.6s;
+}
+.letterB5 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 270px;
+  position: absolute;
+  top: 402px;
+  left: 829px;
+  color: #000000;
+  -webkit-text-stroke: 1.2px rgb(255, 255, 255);
+  transition: all ease 0.3s;
+}
+.letterB5:hover {
+  color: rgb(255, 255, 255);
+  transform: all ease 0.6s;
+}
+.letterO5 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 270px;
+  position: absolute;
+  top: 402px;
+  left: 994px;
+  color: #000000;
+  -webkit-text-stroke: 1.2px rgb(255, 255, 255);
+  transition: all ease 0.3s;
+}
+.letterO5:hover {
+  color: rgb(255, 255, 255);
+  transform: all ease 0.6s;
+}
+.letterN5-3 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 270px;
+  position: absolute;
+  top: 406px;
+  left: 1154px;
+  color: #000000;
+  -webkit-text-stroke: 1.2px rgb(255, 255, 255);
+  transition: all ease 0.3s;
+}
+.letterN5-3:hover {
+  color: rgb(255, 255, 255);
+  transform: all ease 0.6s;
+}
+.hatch5-1 {
+  position: absolute;
+  left: 103px; /* смещение по X */
+  top: 282px; /* смещение по Y */
+}
+.hatch5-2 {
+  position: absolute;
+  left: 229px; /* смещение по X */
+  top: 282px; /* смещение по Y */
+}
+.hatch5-3 {
+  position: absolute;
+  left: 688px; /* смещение по X */
+  top: 399px; /* смещение по Y */
+}
+.hatch5-4 {
+  position: absolute;
+  left: 828px; /* смещение по X */
+  top: 399px; /* смещение по Y */
+}
+.hatch5-5 {
+  position: absolute;
+  left: 1161px; /* смещение по X */
+  top: 282px; /* смещение по Y */
+}
+.hatch5-6 {
+  position: absolute;
+  left: 1327px; /* смещение по X */
+  top: 282px; /* смещение по Y */
+}
+.hatch5-7 {
+  position: absolute;
+  left: 111px; /* смещение по X */
+  top: 276px; /* смещение по Y */
+}
+.hatch5-8 {
+  position: absolute;
+  left: 695px; /* смещение по X */
+  top: 731px; /* смещение по Y */
+}
+.hatch5-9 {
+  position: absolute;
+  left: 1170px; /* смещение по X */
+  top: 276px; /* смещение по Y */
+}
+.arrow5-1 {
+  position: absolute;
+  left: 107px; /* смещение по X */
+  top: 536px; /* смещение по Y */
+}
+.arrow5-2 {
+  position: absolute;
+  left: 275px; /* смещение по X */
+  top: 577px; /* смещение по Y */
+}
+.arrow5-3 {
+  position: absolute;
+  left: 363px; /* смещение по X */
+  top: 543px; /* смещение по Y */
+}
+.arrow5-4 {
+  position: absolute;
+  left: 538px; /* смещение по X */
+  top: 594px; /* смещение по Y */
+}
+.arrow5-5 {
+  position: absolute;
+  left: 626px; /* смещение по X */
+  top: 594px; /* смещение по Y */
+}
+.arrow5-6 {
+  position: absolute;
+  left: 701px; /* смещение по X */
+  top: 496px; /* смещение по Y */
+}
+.arrow5-7 {
+  position: absolute;
+  left: 777px; /* смещение по X */
+  top: 552px; /* смещение по Y */
+}
+.arrow5-8 {
+  position: absolute;
+  left: 858px; /* смещение по X */
+  top: 442px; /* смещение по Y */
+}
+.arrow5-9 {
+  position: absolute;
+  left: 1279px; /* смещение по X */
+  top: 558px; /* смещение по Y */
+}
+.arrow5-10 {
+  position: absolute;
+  left: 870px; /* смещение по X */
+  top: 568px; /* смещение по Y */
+}
+.arrow5-11 {
+  position: absolute;
+  left: 1014px; /* смещение по X */
+  top: 533px; /* смещение по Y */
+}
+.arrow5-12 {
+  position: absolute;
+  left: 451px; /* смещение по X */
+  top: 542px; /* смещение по Y */
+}
+.arrow5-13 {
+  position: absolute;
+  left: 1191px; /* смещение по X */
+  top: 558px; /* смещение по Y */
+}
+.n126px-1 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 17px;
+  position: absolute;
+  top: 255px;
+  left: 145px;
+  color: #ffffff;
+}
+.n142px-1 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 17px;
+  position: absolute;
+  top: 742px;
+  left: 737px;
+  color: #ffffff;
+}
+.n142px-2 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 17px;
+  position: absolute;
+  top: 254px;
+  left: 1222px;
+  color: #ffffff;
+}
+.n34-1 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 519px;
+  left: 114px;
+  color: #ffffff;
+}
+.n30-1 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 560px;
+  left: 276px;
+  color: #ffffff;
+}
+.n32-1 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 525px;
+  left: 363px;
+  color: #ffffff;
+}
+.n32-2 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 525px;
+  left: 452px;
+  color: #ffffff;
+}
+.n70-1 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 575px;
+  left: 539px;
+  color: #ffffff;
+}
+.n70-2 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 575px;
+  left: 626px;
+  color: #ffffff;
+}
+.n32-3 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 482px;
+  left: 702px;
+  color: #ffffff;
+}
+.n30-2 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 536px;
+  left: 777px;
+  color: #ffffff;
+}
+.n30-3 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 455px;
+  left: 859px;
+  color: #ffffff;
+}
+.n12 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 571px;
+  left: 854px;
+  color: #ffffff;
+}
+.n34-2 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 516px;
+  left: 1015px;
+  color: #ffffff;
+}
+.n32-4 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 541px;
+  left: 1191px;
+  color: #ffffff;
+}
+.n32-5 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+  position: absolute;
+  top: 541px;
+  left: 1279px;
+  color: #ffffff;
+}
+.card5-1 {
+  position: absolute;
+  left: 30px; /* смещение по X */
+  top: 83px; /* смещение по Y */
+}
+.card5-2 {
+  position: absolute;
+  left: 1119px; /* смещение по X */
+  top: 67px; /* смещение по Y */
+}
+.card5-3 {
+  position: absolute;
+  left: 67px; /* смещение по X */
+  top: 719px; /* смещение по Y */
+}
+.card5-4 {
+  position: absolute;
+  left: 1200px; /* смещение по X */
+  top: 711px; /* смещение по Y */
+}
+
+/* <!-- ШЕСТОЙ ЭКРАН --> */
+.sixscreen {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: #000000;
+}
+.screen6 {
+  position: absolute;
+  left: 0px; /* смещение по X */
+  top: 0px; /* смещение по Y */
+}
+.c11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 67px;
+  left: 256px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.i11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 67px;
+  left: 399px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.m11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 67px;
+  left: 547px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.v11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 67px;
+  left: 700px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+
+.o11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 67px;
+  left: 849px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.l11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 67px;
+  left: 999px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.u11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 67px;
+  left: 1145px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.c11-2 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 921px;
+  left: 250px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.i11-2 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 921px;
+  left: 396px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.m11-2 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 921px;
+  left: 545px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.v11-2 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 921px;
+  left: 700px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.o11-2 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 921px;
+  left: 849px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.l11-2 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 921px;
+  left: 999px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.u11-2 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 921px;
+  left: 1145px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.r1-11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 193px;
+  left: 129px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.r2-11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 344px;
+  left: 126px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.r3-11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 489px;
+  left: 126px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.r4-11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 637px;
+  left: 126px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.r5-11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 792px;
+  left: 126px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.l1-11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 193px;
+  left: 1293px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.l2-11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 344px;
+  left: 1291px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.l3-11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 489px;
+  left: 1293px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.l4-11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 637px;
+  left: 1293px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+.l5-11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 792px;
+  left: 1293px;
+  color: #616161;
+  z-index: 3; /* Более высокий слой */
+}
+
+.a1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 169px;
+  left: 233px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a2 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 178px;
+  left: 362px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a3 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 171px;
+  left: 523px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a4 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 176px;
+  left: 681px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a5 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 174px;
+  left: 839px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a6 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 176px;
+  left: 981px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a7 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 174px;
+  left: 1144px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a11 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 323px;
+  left: 238px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a22 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 324px;
+  left: 406px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a33 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 344px;
+  left: 545px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a44 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 320px;
+  left: 689px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a55 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 323px;
+  left: 849px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a66 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 305px;
+  left: 1004px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a77 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 317px;
+  left: 1134px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a111 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 446px;
+  left: 254px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a222 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 466px;
+  left: 398px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a333 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 436px;
+  left: 555px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a444 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 469px;
+  left: 689px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a555 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 466px;
+  left: 829px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a666 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 499px;
+  left: 972px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a777 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 474px;
+  left: 1118px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a1111 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 619px;
+  left: 239px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a2222 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 622px;
+  left: 385px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a3333 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 623px;
+  left: 535px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a4444 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 623px;
+  left: 689px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a5555 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 621px;
+  left: 843px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a6666 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 623px;
+  left: 985px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a7777 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 642px;
+  left: 1138px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a11111 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 768px;
+  left: 239px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a22222 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 758px;
+  left: 377px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a33333 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 773px;
+  left: 535px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a44444 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 768px;
+  left: 688px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a55555 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 762px;
+  left: 856px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+.a66666 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 766px;
+  left: 990px;
+  color: #000000;
+  z-index: 3; /* Более высокий слой */
+}
+.a77777 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 740px;
+  left: 1122px;
+  color: #ffffff;
+  z-index: 3; /* Более высокий слой */
+}
+/* <!-- СЕДЬМОЙ ЭКРАН --> */
+.sevenscreen {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: #ffffff;
+}
+.chess6-1 {
+  position: absolute;
+  left: 166px; /* смещение по X */
+  top: 32px; /* смещение по Y */
+}
+.chess6-2 {
+  position: absolute;
+  left: 172px; /* смещение по X */
+  top: 353px; /* смещение по Y */
+}
+.chess6-3 {
+  position: absolute;
+  left: 174px; /* смещение по X */
+  top: 667px; /* смещение по Y */
+}
+.chess6-4 {
+  position: absolute;
+  left: 648px; /* смещение по X */
+  top: 222px; /* смещение по Y */
+}
+.chess6-5 {
+  position: absolute;
+  left: 1175px; /* смещение по X */
+  top: 30px; /* смещение по Y */
+}
+.chess6-6 {
+  position: absolute;
+  left: 1166px; /* смещение по X */
+  top: 348px; /* смещение по Y */
+}
+.chess6-7 {
+  position: absolute;
+  left: 1173px; /* смещение по X */
+  top: 667px; /* смещение по Y */
+}
+.lng7-1 {
+  position: absolute;
+  left: 60px; /* смещение по X */
+  top: 261px; /* смещение по Y */
+}
+.lng7-2 {
+  position: absolute;
+  left: 60px; /* смещение по X */
+  top: 551px; /* смещение по Y */
+}
+.lng7-3 {
+  position: absolute;
+  left: 60px; /* смещение по X */
+  top: 841px; /* смещение по Y */
+}
+.lng7-4 {
+  position: absolute;
+  left: 504px; /* смещение по X */
+  top: 551px; /* смещение по Y */
+}
+.lng7-5 {
+  position: absolute;
+  left: 1063px; /* смещение по X */
+  top: 551px; /* смещение по Y */
+}
+.lng7-6 {
+  position: absolute;
+  left: 1063px; /* смещение по X */
+  top: 841px; /* смещение по Y */
+}
+.lng7-7 {
+  position: absolute;
+  left: 1063px; /* смещение по X */
+  top: 261px; /* смещение по Y */
+}
+.line7-1 {
+  position: absolute;
+  left: 18px; /* смещение по X */
+  top: 949px; /* смещение по Y */
+}
+.text7-1 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  top: 272px;
+  left: 180px;
+  color: #000000;
+}
+.text7-2 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  top: 562px;
+  left: 170px;
+  color: #000000;
+}
+.text7-3 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  top: 853px;
+  left: 178px;
+  color: #000000;
+}
+.text7-7 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  top: 272px;
+  left: 1186px;
+  color: #000000;
+}
+.text7-5 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  top: 562px;
+  left: 1146px;
+  color: #000000;
+}
+.text7-6 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  top: 852px;
+  left: 1179px;
+  color: #000000;
+}
+.text7-4 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  top: 563px;
+  left: 559px;
+  color: #ffffff;
+}
+.maintext7 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 27px;
+  position: absolute;
+  top: 625px;
+  left: 504px;
+  color: #000000;
+  padding-right: 490px;
+  text-align: center;
+  line-height: 1.2; /* рекомендуемое значение для основного текста */
+}
+/* <!-- ВОСЬМОЙ ЭКРАН --> */
+.eightscreen {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: #ffffff;
+}
+.clock8 {
+  position: absolute;
+  left: 0; /* смещение по X */
+  top: 0px; /* смещение по Y */
+}
+.maintext8 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 27px;
+  position: absolute;
+  top: 432px;
+  left: 510px;
+  color: #000000;
+  padding-right: 500px;
+  line-height: 1.2; /* рекомендуемое значение для основного текста */
+}
+.mw8 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 128px;
+  position: absolute;
+  top: 45px;
+  left: 175px;
+  color: #ffffff00;
+  -webkit-text-stroke: 1px rgb(0, 0, 0);
+  z-index: 3; /* Более высокий слой */
+}
+.mbl8 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 128px;
+  position: absolute;
+  top: 45px;
+  left: 173px;
+  color: #000000;
+}
+.kw8 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 128px;
+  position: absolute;
+  top: 30px;
+  left: 1148px;
+  color: #ffffff00;
+  -webkit-text-stroke: 1px rgb(0, 0, 0);
+  z-index: 3; /* Более высокий слой */
+}
+.kbl8 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 128px;
+  position: absolute;
+  top: 30px;
+  left: 1146px;
+  color: #000000;
+}
+.dw8 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 128px;
+  position: absolute;
+  top: 881px;
+  left: 188px;
+  color: #ffffff00;
+  -webkit-text-stroke: 1px rgb(0, 0, 0);
+  z-index: 3; /* Более высокий слой */
+}
+.dbl8 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 128px;
+  position: absolute;
+  top: 881px;
+  left: 186px;
+  color: #000000;
+}
+.fw8 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 128px;
+  position: absolute;
+  top: 887px;
+  left: 1137px;
+  color: #ffffff00;
+  -webkit-text-stroke: 1px rgb(0, 0, 0);
+  z-index: 3; /* Более высокий слой */
+}
+.fbl8 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 128px;
+  position: absolute;
+  top: 887px;
+  left: 1135px;
+  color: #000000;
+}
+
+/* <!-- ДЕВЯТЫЙ ЭКРАН --> */
+.ninescreen {
+  position: relative;
+  width: 1440px;
+  height: 1141px;
+  background: #ffffff;
+}
+.line9 {
+  position: absolute;
+  left: 20px; /* смещение по X */
+  top: 0px; /* смещение по Y */
+}
+.book9 {
+  position: absolute;
+  left: 82px; /* смещение по X */
+  top: 217px; /* смещение по Y */
+}
+.text9-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 36px;
+  position: absolute;
+  top: 483px;
+  left: 213px;
+  color: #000000;
+}
+.text9-2 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 27px;
+  position: absolute;
+  padding-right: 800px;
+  top: 530px;
+  left: 215px;
+  color: #000000;
+  line-height: 1.2; /* рекомендуемое значение для основного текста */
+}
+.text9-3 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 48px;
+  position: absolute;
+  top: 293px;
+  left: 870px;
+  color: #000000;
+}
+.text9-4 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  padding-right: 200px;
+  top: 370px;
+  left: 810px;
+  color: #000000;
+  line-height: 1.2; /* рекомендуемое значение для основного текста */
+}
+.text9-5 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  top: 425px;
+  left: 810px;
+  color: #000000;
+  line-height: 1.2; /* рекомендуемое значение для основного текста */
+}
+.text9-6 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  top: 455px;
+  left: 810px;
+  color: #000000;
+  line-height: 1.2; /* рекомендуемое значение для основного текста */
+}
+.n1-9 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  top: 1064px;
+  left: 1292px;
+  color: #000000;
+}
+
+/* <!-- ДЕСЯТЫЙ ЭКРАН --> */
+.tenscreen {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: #ffffff;
+}
+.screen10 {
+  position: absolute;
+  left: 0px; /* смещение по X */
+  top: 0px; /* смещение по Y */
+}
+.cup9-1 {
+  position: absolute;
+  left: 92px; /* смещение по X */
+  top: 141px; /* смещение по Y */
+}
+.cup9-2 {
+  position: absolute;
+  left: 549px; /* смещение по X */
+  top: 141px; /* смещение по Y */
+}
+.cup9-3 {
+  position: absolute;
+  left: 1020px; /* смещение по X */
+  top: 141px; /* смещение по Y */
+}
+.a10 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 55px;
+  position: absolute;
+  top: 206px;
+  left: 215px;
+  transform: rotate(5deg);
+  color: #ffffff;
+}
+.e10 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 64px;
+  position: absolute;
+  top: 340px;
+  left: 232px;
+  transform: rotate(-22deg);
+  color: #000000;
+  text-shadow: 0px 3px 2px rgba(166, 166, 166, 0.518);
+}
+.æ10 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 461px;
+  left: 226px;
+  color: #ffffff;
+}
+.az10 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 64px;
+  position: absolute;
+  top: 206px;
+  left: 666px;
+  transform: rotate(5deg);
+  color: #000000;
+  text-shadow: 0px 3px 2px rgba(166, 166, 166, 0.518);
+}
+.Ez10 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 64px;
+  position: absolute;
+  top: 349px;
+  left: 686px;
+  transform: rotate(-20deg);
+  color: #ffffff;
+}
+.Æz10 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 465px;
+  left: 678px;
+  color: #000000;
+  text-shadow: 0px 3px 2px rgba(166, 166, 166, 0.518);
+}
+.G10 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 55px;
+  position: absolute;
+  top: 213px;
+  left: 1140px;
+  transform: rotate(5deg);
+  color: #ffffff;
+}
+.r10 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 64px;
+  position: absolute;
+  top: 340px;
+  left: 1164px;
+  transform: rotate(-22deg);
+  color: #000000;
+  text-shadow: 0px 3px 2px rgba(166, 166, 166, 0.518);
+}
+.₢10 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 96px;
+  position: absolute;
+  top: 470px;
+  left: 1160px;
+  color: #ffffff;
+}
+.lig10 {
+  font-family: "Parmigiano Piccolo Pro Lt";
+  font-weight: 300;
+  font-style: italic;
+  font-size: 64px;
+  position: absolute;
+  top: 679px;
+  left: 553px;
+  color: #000000;
+}
+/* <!-- ОДИННАДЦАТЫЙ ЭКРАН --> */
+.elevenscreen {
+  position: relative;
+  width: 1440px;
+  height: 186px;
+  background: #ffffff;
+}
+.screen11-1 {
+  position: absolute;
+  left: 0px; /* смещение по X */
+  top: 0px; /* смещение по Y */
+}
+.text11-1 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 30px;
+  position: absolute;
+  top: 81px;
+  left: 68px;
+  color: #000000;
+}
+.text11-2 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 30px;
+  position: absolute;
+  top: 81px;
+  left: 519px;
+  color: #000000;
+}
+.text11-3 {
+  font-family: "Parmigiano Piccolo Pro Reg";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 30px;
+  position: absolute;
+  top: 82px;
+  left: 1168px;
+  color: #000000;
 }

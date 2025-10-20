@@ -1,0 +1,47 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_356_10)">
+<rect width="1440" height="1024" fill="white"/>
+<rect width="1440" height="1024" fill="black"/>
+<rect x="195" y="137" width="150" height="150" fill="black"/>
+<rect x="345" y="137" width="150" height="150" fill="white"/>
+<rect x="495" y="137" width="150" height="150" fill="black"/>
+<rect x="645" y="137" width="150" height="150" fill="white"/>
+<rect x="795" y="137" width="150" height="150" fill="black"/>
+<rect x="945" y="137" width="150" height="150" fill="white"/>
+<rect x="345" y="287" width="150" height="150" fill="black"/>
+<rect x="495" y="287" width="150" height="150" fill="white"/>
+<rect x="645" y="287" width="150" height="150" fill="black"/>
+<rect x="795" y="287" width="150" height="150" fill="white"/>
+<rect x="195" y="437" width="150" height="150" fill="black"/>
+<rect x="345" y="437" width="150" height="150" fill="white"/>
+<rect x="495" y="437" width="150" height="150" fill="black"/>
+<rect x="645" y="437" width="150" height="150" fill="white"/>
+<rect x="795" y="437" width="150" height="150" fill="black"/>
+<rect x="945" y="437" width="150" height="150" fill="white"/>
+<rect x="345" y="587" width="150" height="150" fill="black"/>
+<rect x="495" y="587" width="150" height="150" fill="white"/>
+<rect x="645" y="587" width="150" height="150" fill="black"/>
+<rect x="795" y="587" width="150" height="150" fill="white"/>
+<rect x="195" y="737" width="150" height="150" fill="black"/>
+<rect x="345" y="737" width="150" height="150" fill="white"/>
+<rect x="495" y="737" width="150" height="150" fill="black"/>
+<rect x="645" y="737" width="150" height="150" fill="white"/>
+<rect x="795" y="737" width="150" height="150" fill="black"/>
+<rect x="945" y="737" width="150" height="150" fill="white"/>
+<rect x="195" y="287" width="150" height="150" fill="white"/>
+<rect x="945" y="287" width="150" height="150" fill="black"/>
+<rect x="195" y="587" width="150" height="150" fill="white"/>
+<rect x="945" y="587" width="150" height="150" fill="black"/>
+<rect x="1095" y="287" width="150" height="150" fill="white"/>
+<rect x="1095" y="437" width="150" height="150" fill="black"/>
+<rect x="1095" y="137" width="150" height="150" fill="black"/>
+<rect x="1095" y="587" width="150" height="150" fill="white"/>
+<rect x="1095" y="737" width="150" height="150" fill="black"/>
+<rect x="195.5" y="137.5" width="1049" height="749" stroke="white"/>
+</g>
+<defs>
+<clipPath id="clip0_356_10">
+<rect width="1440" height="1024" fill="white"/>
+</clipPath>
+</defs>
+</svg>
