@@ -1,143 +1,154 @@
 @font-face {
   font-family: "Parmigiano Piccolo Pro Blk";
-  src: url("ParmigianoPiccoloPro-BlkIta.eot");
+  src: url("../fonts/ParmigianoPiccoloPro-BlkIta.eot");
   src: local("ParmigianoPiccoloPro-BlkIta"),
-    url("ParmigianoPiccoloPro-BlkIta.eot?#iefix") format("embedded-opentype"),
-    url("ParmigianoPiccoloPro-BlkIta.woff2") format("woff2"),
-    url("ParmigianoPiccoloPro-BlkIta.woff") format("woff"),
-    url("ParmigianoPiccoloPro-BlkIta.ttf") format("truetype");
+    url("../fonts/ParmigianoPiccoloPro-BlkIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ParmigianoPiccoloPro-BlkIta.woff2") format("woff2"),
+    url("../fonts/ParmigianoPiccoloPro-BlkIta.woff") format("woff"),
+    url("../fonts/ParmigianoPiccoloPro-BlkIta.ttf") format("truetype");
   font-weight: 900;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Blk";
-  src: url("ParmigianoPiccoloPro-Blk.eot");
+  src: url("../fonts/ParmigianoPiccoloPro-Blk.eot");
   src: local("ParmigianoPiccoloPro-Blk"),
-    url("ParmigianoPiccoloPro-Blk.eot?#iefix") format("embedded-opentype"),
-    url("ParmigianoPiccoloPro-Blk.woff2") format("woff2"),
-    url("ParmigianoPiccoloPro-Blk.woff") format("woff"),
-    url("ParmigianoPiccoloPro-Blk.ttf") format("truetype");
+    url("../fonts/ParmigianoPiccoloPro-Blk.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ParmigianoPiccoloPro-Blk.woff2") format("woff2"),
+    url("../fonts/ParmigianoPiccoloPro-Blk.woff") format("woff"),
+    url("../fonts/ParmigianoPiccoloPro-Blk.ttf") format("truetype");
   font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Lt";
-  src: url("ParmigianoPiccoloPro-LtIta.eot");
+  src: url("../fonts/ParmigianoPiccoloPro-LtIta.eot");
   src: local("ParmigianoPiccoloPro-LtIta"),
-    url("ParmigianoPiccoloPro-LtIta.eot?#iefix") format("embedded-opentype"),
-    url("ParmigianoPiccoloPro-LtIta.woff2") format("woff2"),
-    url("ParmigianoPiccoloPro-LtIta.woff") format("woff"),
-    url("ParmigianoPiccoloPro-LtIta.ttf") format("truetype");
+    url("../fonts/ParmigianoPiccoloPro-LtIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ParmigianoPiccoloPro-LtIta.woff2") format("woff2"),
+    url("../fonts/ParmigianoPiccoloPro-LtIta.woff") format("woff"),
+    url("../fonts/ParmigianoPiccoloPro-LtIta.ttf") format("truetype");
   font-weight: 300;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Bld";
-  src: url("ParmigianoPiccoloPro-Bld.eot");
+  src: url("../fonts/ParmigianoPiccoloPro-Bld.eot");
   src: local("ParmigianoPiccoloPro-Bld"),
-    url("ParmigianoPiccoloPro-Bld.eot?#iefix") format("embedded-opentype"),
-    url("ParmigianoPiccoloPro-Bld.woff2") format("woff2"),
-    url("ParmigianoPiccoloPro-Bld.woff") format("woff"),
-    url("ParmigianoPiccoloPro-Bld.ttf") format("truetype");
+    url("../fonts/ParmigianoPiccoloPro-Bld.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ParmigianoPiccoloPro-Bld.woff2") format("woff2"),
+    url("../fonts/ParmigianoPiccoloPro-Bld.woff") format("woff"),
+    url("../fonts/ParmigianoPiccoloPro-Bld.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Lt";
-  src: url("ParmigianoPiccoloPro-Lt.eot");
+  src: url("../fonts/ParmigianoPiccoloPro-Lt.eot");
   src: local("ParmigianoPiccoloPro-Lt"),
-    url("ParmigianoPiccoloPro-Lt.eot?#iefix") format("embedded-opentype"),
-    url("ParmigianoPiccoloPro-Lt.woff2") format("woff2"),
-    url("ParmigianoPiccoloPro-Lt.woff") format("woff"),
-    url("ParmigianoPiccoloPro-Lt.ttf") format("truetype");
+    url("../fonts/ParmigianoPiccoloPro-Lt.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ParmigianoPiccoloPro-Lt.woff2") format("woff2"),
+    url("../fonts/ParmigianoPiccoloPro-Lt.woff") format("woff"),
+    url("../fonts/ParmigianoPiccoloPro-Lt.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Med";
-  src: url("ParmigianoPiccoloPro-Med.eot");
+  src: url("../fonts/ParmigianoPiccoloPro-Med.eot");
   src: local("ParmigianoPiccoloPro-Med"),
-    url("ParmigianoPiccoloPro-Med.eot?#iefix") format("embedded-opentype"),
-    url("ParmigianoPiccoloPro-Med.woff2") format("woff2"),
-    url("ParmigianoPiccoloPro-Med.woff") format("woff"),
-    url("ParmigianoPiccoloPro-Med.ttf") format("truetype");
+    url("../fonts/ParmigianoPiccoloPro-Med.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ParmigianoPiccoloPro-Med.woff2") format("woff2"),
+    url("../fonts/ParmigianoPiccoloPro-Med.woff") format("woff"),
+    url("../fonts/ParmigianoPiccoloPro-Med.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Bld";
-  src: url("ParmigianoPiccoloPro-BldIta.eot");
-  src: local("ParmigianoPiccoloPro-BldIta"),
-    url("ParmigianoPiccoloPro-BldIta.eot?#iefix") format("embedded-opentype"),
-    url("ParmigianoPiccoloPro-BldIta.woff2") format("woff2"),
-    url("ParmigianoPiccoloPro-BldIta.woff") format("woff"),
-    url("ParmigianoPiccoloPro-BldIta.ttf") format("truetype");
+  src: url("../fonts/ParmigianoPiccoloPro-BldIta.eot");
+  src: local("../fonts/ParmigianoPiccoloPro-BldIta"),
+    url("../fonts/ParmigianoPiccoloPro-BldIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ParmigianoPiccoloPro-BldIta.woff2") format("woff2"),
+    url("../fonts/ParmigianoPiccoloPro-BldIta.woff") format("woff"),
+    url("../fonts/ParmigianoPiccoloPro-BldIta.ttf") format("truetype");
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro";
-  src: url("ParmigianoPiccoloPro-Thin.eot");
+  src: url("../fonts/ParmigianoPiccoloPro-Thin.eot");
   src: local("ParmigianoPiccoloPro-Thin"),
-    url("ParmigianoPiccoloPro-Thin.eot?#iefix") format("embedded-opentype"),
-    url("ParmigianoPiccoloPro-Thin.woff2") format("woff2"),
-    url("ParmigianoPiccoloPro-Thin.woff") format("woff"),
-    url("ParmigianoPiccoloPro-Thin.ttf") format("truetype");
+    url("../fonts/ParmigianoPiccoloPro-Thin.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ParmigianoPiccoloPro-Thin.woff2") format("woff2"),
+    url("../fonts/ParmigianoPiccoloPro-Thin.woff") format("woff"),
+    url("../fonts/ParmigianoPiccoloPro-Thin.ttf") format("truetype");
   font-weight: 100;
   font-style: normal;
 }
-
 @font-face {
   font-family: "Parmigiano Piccolo Pro Med";
-  src: url("ParmigianoPiccoloPro-MedIta.eot");
+  src: url("../fonts/ParmigianoPiccoloPro-MedIta.eot");
   src: local("ParmigianoPiccoloPro-MedIta"),
-    url("ParmigianoPiccoloPro-MedIta.eot?#iefix") format("embedded-opentype"),
-    url("ParmigianoPiccoloPro-MedIta.woff2") format("woff2"),
-    url("ParmigianoPiccoloPro-MedIta.woff") format("woff"),
-    url("ParmigianoPiccoloPro-MedIta.ttf") format("truetype");
+    url("../fonts/ParmigianoPiccoloPro-MedIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ParmigianoPiccoloPro-MedIta.woff2") format("woff2"),
+    url("../fonts/ParmigianoPiccoloPro-MedIta.woff") format("woff"),
+    url("../fonts/ParmigianoPiccoloPro-MedIta.ttf") format("truetype");
   font-weight: 500;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Reg";
-  src: url("ParmigianoPiccoloPro-Reg.eot");
+  src: url("../fonts/ParmigianoPiccoloPro-Reg.eot");
   src: local("ParmigianoPiccoloPro-Reg"),
-    url("ParmigianoPiccoloPro-Reg.eot?#iefix") format("embedded-opentype"),
-    url("ParmigianoPiccoloPro-Reg.woff2") format("woff2"),
-    url("ParmigianoPiccoloPro-Reg.woff") format("woff"),
-    url("ParmigianoPiccoloPro-Reg.ttf") format("truetype");
+    url("../fonts/ParmigianoPiccoloPro-Reg.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ParmigianoPiccoloPro-Reg.woff2") format("woff2"),
+    url("../fonts/ParmigianoPiccoloPro-Reg.woff") format("woff"),
+    url("../fonts/ParmigianoPiccoloPro-Reg.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro";
-  src: url("ParmigianoPiccoloPro-ThinIta.eot");
+  src: url("../fonts/ParmigianoPiccoloPro-ThinIta.eot");
   src: local("ParmigianoPiccoloPro-ThinIta"),
-    url("ParmigianoPiccoloPro-ThinIta.eot?#iefix") format("embedded-opentype"),
-    url("ParmigianoPiccoloPro-ThinIta.woff2") format("woff2"),
-    url("ParmigianoPiccoloPro-ThinIta.woff") format("woff"),
-    url("ParmigianoPiccoloPro-ThinIta.ttf") format("truetype");
+    url("../fonts/ParmigianoPiccoloPro-ThinIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ParmigianoPiccoloPro-ThinIta.woff2") format("woff2"),
+    url("../fonts/ParmigianoPiccoloPro-ThinIta.woff") format("woff"),
+    url("../fonts/ParmigianoPiccoloPro-ThinIta.ttf") format("truetype");
   font-weight: 100;
   font-style: italic;
 }
 
 @font-face {
   font-family: "Parmigiano Piccolo Pro Reg";
-  src: url("ParmigianoPiccoloPro-RegIta.eot");
+  src: url("../fonts/ParmigianoPiccoloPro-RegIta.eot");
   src: local("ParmigianoPiccoloPro-RegIta"),
-    url("ParmigianoPiccoloPro-RegIta.eot?#iefix") format("embedded-opentype"),
-    url("ParmigianoPiccoloPro-RegIta.woff2") format("woff2"),
-    url("ParmigianoPiccoloPro-RegIta.woff") format("woff"),
-    url("ParmigianoPiccoloPro-RegIta.ttf") format("truetype");
+    url("../fonts/ParmigianoPiccoloPro-RegIta.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/ParmigianoPiccoloPro-RegIta.woff2") format("woff2"),
+    url("../fonts/ParmigianoPiccoloPro-RegIta.woff") format("woff"),
+    url("../fonts/ParmigianoPiccoloPro-RegIta.ttf") format("truetype");
   font-weight: normal;
   font-style: italic;
 }
